@@ -989,9 +989,7 @@ class Editor(wx.Frame):
         # Simple display a modal window telling about the application
         dlg = wx.MessageDialog(self,"An elegant, yet simple, text editor made with Python and wxPython.\n\nCreated by:\n"
                                     "\n1. Vaishnavi Nighvekar"
-                                    "\n2. Om Agrawal"
-                                    "\n3. Prakash Zodge"
-                                    "\n3. Yash Jaiswal"
+                                    "\n2. Ganesh Pandit"
                                     "\n\nVersion 1.0.0\n\n",
                                "About Limitless Editor", wx.OK)
         dlg.ShowModal()
